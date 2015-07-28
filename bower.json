@@ -1,14 +1,15 @@
 {
-  "name": "ngSticky",
-  "version": "1.7.9",
+  "name": "qlSticky",
+  "version": "0.0.1-rc.0",
   "homepage": "https://github.com/d-oliveros/ngSticky",
   "authors": [
-    "David Oliveros <dato.oliveros@gmail.com>"
+    "David Oliveros <dato.oliveros@gmail.com>",
+    "IT Team RAD QLMS Portal SE <ITTeamRADQLMSPortalSE@quickenloans.com>"
   ],
   "description": "A simple, pure javascript (No jQuery required!) AngularJS directive to make elements stick when scrolling down.",
   "main": "lib/sticky.js",
   "dependencies": {
-    "angular": "^1.2.0",
+    "angular": "^1.3.0",
     "matchmedia": "~0.2.0"
   },
   "keywords": [
